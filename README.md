@@ -12,8 +12,8 @@
   * 可设定摆动方向，风力摆从静止开始，15s 内按照设置的方向（角度）摆动，画出不短于20cm 的直线段；
   * 将风力摆拉起一定角度（30°~45°）放开，5s 内使风力摆制动达到静止状态。
 
-![风力摆_00](README.assets/%E9%A3%8E%E5%8A%9B%E6%91%86_00.png)
+![风力摆_00](https://github.com/Sylvanashub/Wind-pendulum-control-system/blob/main/assets/%E9%A3%8E%E5%8A%9B%E6%91%86_00.png)
 
 
 
-![风力摆_01](README.assets/%E9%A3%8E%E5%8A%9B%E6%91%86_01.png)
+![风力摆_01](https://github.com/Sylvanashub/Wind-pendulum-control-system/blob/main/assets/%E9%A3%8E%E5%8A%9B%E6%91%86_01.png)
